@@ -1,0 +1,142 @@
+[
+  {
+    "id": 0,
+    "seed": 17,
+    "N": 800,
+    "dark_share": 0.43028365675905567,
+    "malignant_frac": 0.2
+  },
+  {
+    "id": 1,
+    "seed": 18,
+    "N": 800,
+    "dark_share": 0.30098504631456147,
+    "malignant_frac": 0.2
+  },
+  {
+    "id": 2,
+    "seed": 19,
+    "N": 730,
+    "dark_share": 0.21563597374892207,
+    "malignant_frac": 0.2
+  },
+  {
+    "id": 3,
+    "seed": 20,
+    "N": 737,
+    "dark_share": 0.2236208169151393,
+    "malignant_frac": 0.2
+  },
+  {
+    "id": 4,
+    "seed": 21,
+    "N": 756,
+    "dark_share": 0.24267402459212378,
+    "malignant_frac": 0.35
+  },
+  {
+    "id": 5,
+    "seed": 22,
+    "N": 800,
+    "dark_share": 0.38137364173097893,
+    "malignant_frac": 0.35
+  },
+  {
+    "id": 6,
+    "seed": 23,
+    "N": 607,
+    "dark_share": 0.0568803454685202,
+    "malignant_frac": 0.35
+  },
+  {
+    "id": 7,
+    "seed": 24,
+    "N": 800,
+    "dark_share": 0.32186563455376854,
+    "malignant_frac": 0.2
+  },
+  {
+    "id": 8,
+    "seed": 25,
+    "N": 628,
+    "dark_share": 0.08768151260921443,
+    "malignant_frac": 0.5
+  },
+  {
+    "id": 9,
+    "seed": 26,
+    "N": 800,
+    "dark_share": 0.42455575602531676,
+    "malignant_frac": 0.5
+  },
+  {
+    "id": 10,
+    "seed": 27,
+    "N": 613,
+    "dark_share": 0.06654981095029618,
+    "malignant_frac": 0.35
+  },
+  {
+    "id": 11,
+    "seed": 28,
+    "N": 800,
+    "dark_share": 0.32420306167029656,
+    "malignant_frac": 0.35
+  },
+  {
+    "id": 12,
+    "seed": 29,
+    "N": 605,
+    "dark_share": 0.053116960781420704,
+    "malignant_frac": 0.5
+  },
+  {
+    "id": 13,
+    "seed": 30,
+    "N": 654,
+    "dark_share": 0.12421499608687807,
+    "malignant_frac": 0.2
+  },
+  {
+    "id": 14,
+    "seed": 31,
+    "N": 772,
+    "dark_share": 0.2578810592902389,
+    "malignant_frac": 0.35
+  },
+  {
+    "id": 15,
+    "seed": 32,
+    "N": 766,
+    "dark_share": 0.2533591507267183,
+    "malignant_frac": 0.35
+  },
+  {
+    "id": 16,
+    "seed": 33,
+    "N": 800,
+    "dark_share": 0.4638990560487183,
+    "malignant_frac": 0.2
+  },
+  {
+    "id": 17,
+    "seed": 34,
+    "N": 744,
+    "dark_share": 0.23052472452497375,
+    "malignant_frac": 0.5
+  },
+  {
+    "id": 18,
+    "seed": 35,
+    "N": 667,
+    "dark_share": 0.14142270040782384,
+    "malignant_frac": 0.2
+  },
+  {
+    "id": 19,
+    "seed": 36,
+    "N": 800,
+    "dark_share": 0.43791576630681517,
+    "malignant_frac": 0.35
+  }
+]

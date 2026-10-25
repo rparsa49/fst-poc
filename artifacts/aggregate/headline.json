@@ -1,0 +1,26 @@
+{
+  "n_scenarios": 20,
+  "delta_auc": {
+    "mean": 0.06633662628282153,
+    "sd": 0.12301828004337795,
+    "range": [
+      -0.11203348110337663,
+      0.35666666666666674
+    ],
+    "n_inverted": 5
+  },
+  "best_screening_signal": {
+    "signal": "phi5_lab_kl",
+    "auroc_disc": 0.8266666666666668,
+    "direction": "positive"
+  },
+  "sparse_forecast": {
+    "features": [
+      "phi2_class_cond_ratio",
+      "phi5_lab_kl"
+    ],
+    "mae": 0.08832881268761836,
+    "baseline_mae": 0.09365104722673498,
+    "r2": 0.19797637858604156
+  }
+}

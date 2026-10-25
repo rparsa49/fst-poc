@@ -1,0 +1,42 @@
+Metadata rows (FST 1-6): 16,012
+Images downloaded:       3,734  (23.3%)
+
+=== Host composition (full metadata) ===
+                         www.dermaamin.com: 12,222
+                 atlasdermatologico.com.br: 3,752
+
+=== FST distribution among downloaded (3,734 images) ===
+      I-II:   819  ( 21.9%)
+    III-IV: 2,078  ( 55.7%)
+      V-VI:   837  ( 22.4%)
+  I-II : V-VI ratio: 0.98x
+
+=== Per-level FST ===
+  FST 1: 161
+  FST 2: 658
+  FST 3: 996
+  FST 4: 1,082
+  FST 5: 636
+  FST 6: 201
+
+=== Malignancy by FST group ===
+           n_malignant  n_total  frac_malignant
+fst_group                                      
+I-II               227      819        0.277167
+III-IV             354     2078        0.170356
+V-VI                93      837        0.111111
+
+=== Disease coverage (nine_partition_label x FST group) ===
+fst_group                     I-II  III-IV  V-VI
+nine_partition_label                            
+benign dermal                   51      81    16
+benign epidermal                32     159    28
+benign melanocyte                0       2     0
+genodermatoses                  69     216   109
+inflammatory                   440    1266   591
+malignant cutaneous lymphoma    30      40    10
+malignant dermal                 5      29     9
+malignant epidermal            174     242    56
+malignant melanoma              18      43    18
+
+Empty cells: 2 / 27 (7.4%)

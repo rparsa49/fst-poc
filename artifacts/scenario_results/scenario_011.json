@@ -1,0 +1,35 @@
+{
+  "scenario": {
+    "id": 11,
+    "seed": 28,
+    "N": 800,
+    "dark_share": 0.32420306167029656,
+    "malignant_frac": 0.35
+  },
+  "status": "ok",
+  "n_train": 342,
+  "n_probe": 299,
+  "n_test": 159,
+  "metrics_test": {
+    "I-II": {
+      "auc": 0.9127018769096465,
+      "sens": 0.7931034482758621,
+      "n": 108
+    },
+    "V-VI": {
+      "auc": 0.9092664092664093,
+      "sens": 0.7857142857142857,
+      "n": 51
+    }
+  },
+  "delta_auc": 0.003435467643237211,
+  "delta_sens": 0.007389162561576401,
+  "signals": {
+    "phi1_imbalance_ratio": 2.081081081081081,
+    "phi2_class_cond_ratio": 1.0405405405405406,
+    "phi3_empty_cells_frac": 0.10416666666666667,
+    "phi4_embedding_dist": 0.43795377016067505,
+    "phi5_lab_kl": 0.43803927302360535,
+    "phi6_probe_acc_gap": 0.06302949882617126
+  }
+}
